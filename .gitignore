@@ -1,0 +1,14 @@
+# Binaries
+*.exe
+*.out
+*.bin
+
+# OS
+.DS_Store
+
+# IDE
+.idea
+.vscode
+
+# Go build cache (необязательно)
+# /bin
